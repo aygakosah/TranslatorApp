@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TranslatorApp</string>
+    <string name="login_label">Log in</string>
+    <string name="no_connection">No internet connection! Cannot be translated!</string>
+    <string-array name="programming_languages">
+        <item>English</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Hindu</item>
+    </string-array>
+    <string name="intent_scheme">oauth</string>
+    <string name="intent_host">cprest</string>
+    <string name="twitter_consumer_key">olG3DhdvE1DvbCnxnpRJTyfY8</string>
+    <string name="twitter_consumer_secret">zE0NoGv8AhABSLNDJkfQ5787QZjbmhizbLFlIbbiUyQ373zSa0
+</string>
+
+</resources>
